@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-// estoy haciendo cambios en mi rama y luego las paso al github
+// modifiqué este archivo en el GitHub
 
 namespace ClaseAbstracta
 {
