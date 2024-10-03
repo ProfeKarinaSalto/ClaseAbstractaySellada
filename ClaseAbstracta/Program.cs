@@ -4,11 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-<<<<<<< HEAD
-// modifiqué en rama local
-=======
 // modifiqué este archivo en el GitHub por segundo intento
->>>>>>> b578f1db6407961cccdac239302a977811a0800e
+// modifiqué en rama local
+
+//Ahora quiero hacer el push desde el Visual
 
 namespace ClaseAbstracta
 {
