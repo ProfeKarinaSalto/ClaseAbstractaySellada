@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+// modifiqué este archivo en el GitHub
+
 namespace ClaseAbstracta
 {
     internal class Program
